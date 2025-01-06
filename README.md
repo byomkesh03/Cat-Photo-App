@@ -38,7 +38,7 @@ To view the Cat Photo App:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/cat-photo-app.git
+    git clone https://github.com/byomkesh03/Cat-Photo-App
     ```
 2. Open the `index.html` file in your web browser.
 
